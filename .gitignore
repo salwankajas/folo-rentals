@@ -1,0 +1,57 @@
+
+build
+.next
+.DS_Store
+out
+*.swp
+*.swo
+.nvmrc
+
+# Dependencies
+node_modules
+
+# Testing
+coverage
+dist/
+
+# Turbo
+.turbo
+
+# Vercel
+.vercel
+
+# Build Outputs
+.next/
+out/
+build
+dist
+
+apps/docs/node_modules
+
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Misc
+.DS_Store
+*.pem
+
+# vercel
+.vercel
+
+# Webstorm
+.idea
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+### VisualStudioCode template
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
