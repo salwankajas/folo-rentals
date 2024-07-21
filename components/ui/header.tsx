@@ -17,27 +17,27 @@ export default function Header() {
 						{/* Desktop menu links */}
 						<ul className="flex grow justify-end flex-wrap items-center">
 							<li>
-								<Link className="font-medium text-sm text-slate-300 hover:text-white mx-4 lg:mx-5 transition duration-150 ease-in-out" href="/about">
+								<Link className="font-medium text-sm text-slate-300 hover:text-white mx-4 lg:mx-5 transition duration-150 ease-in-out" href="#how-to-work">
 									How to Work
 								</Link>
 							</li>
 							<li>
-								<Link className="font-medium text-sm text-slate-300 hover:text-white mx-4 lg:mx-5 transition duration-150 ease-in-out" href="/integrations">
+								<Link className="font-medium text-sm text-slate-300 hover:text-white mx-4 lg:mx-5 transition duration-150 ease-in-out" href="#plans">
 									Plans
 								</Link>
 							</li>
 							<li>
-								<Link className="font-medium text-sm text-slate-300 hover:text-white mx-4 lg:mx-5 transition duration-150 ease-in-out" href="/signup">
+								<Link className="font-medium text-sm text-slate-300 hover:text-white mx-4 lg:mx-5 transition duration-150 ease-in-out" href="#depositions">
 									Depositions
 								</Link>
 							</li>
 							<li>
-								<Link className="font-medium text-sm text-slate-300 hover:text-white mx-4 lg:mx-5 transition duration-150 ease-in-out" href="/customers">
+								<Link className="font-medium text-sm text-slate-300 hover:text-white mx-4 lg:mx-5 transition duration-150 ease-in-out" href="#career">
 									Career
 								</Link>
 							</li>
 							<li>
-								<Link className="font-medium text-sm text-slate-300 hover:text-white mx-4 lg:mx-5 transition duration-150 ease-in-out" href="/changelog">
+								<Link className="font-medium text-sm text-slate-300 hover:text-white mx-4 lg:mx-5 transition duration-150 ease-in-out" href="#rent">
 									I want to rent
 								</Link>
 							</li>

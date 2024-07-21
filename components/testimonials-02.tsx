@@ -17,24 +17,24 @@ export default function Testimonials02() {
   const items: Item[] = [
     {
       img: Testimonial01,
-      name: 'Mary Janiczak',
-      role: 'Data Engineer',
+      name: 'John Doe',
+      role: 'Tourist',
       twitter: '#0',
-      quote: "At Yeasti, data isn't just numbers; it's the story of our success. Here, I'm constantly evolving, using analytics to craft the perfect strategies for our clients.",
+      quote: "Renting a bike from this company was the highlight of my trip! The process was smooth, and the bike was in excellent condition. Highly recommend!",
     },
     {
       img: Testimonial02,
-      name: 'Jack Smith',
-      role: 'Software Engineer',
+      name: 'Jane Smith',
+      role: 'Local Commuter',
       twitter: '#0',
-      quote: "I'm inspired daily by the challenges and opportunities at Yeasti. Developing tools that shape the future of the alcohol industry is as thrilling as it is rewarding.",
+      quote: "I use their bike rental service for my daily commute, and it's been fantastic. The bikes are always well-maintained, and the customer service is top-notch.",
     },
     {
       img: Testimonial03,
-      name: 'Anna Johnson',
-      role: 'Product Designer',
+      name: 'Emily Johnson',
+      role: 'Adventure Seeker',
       twitter: '#0',
-      quote: "Designing at Yeasti means creating experiences that resonate with users. Our work directly impacts how our clients interact with the industry, and that's incredibly fulfilling.",
+      quote: "Exploring the city on a rented bike was an amazing experience. The rental process was easy, and the staff was very helpful. I'll definitely be back!",
     },
   ]
 
@@ -50,8 +50,8 @@ export default function Testimonials02() {
         <div className="py-12 md:py-20">
           {/* Content */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">Empowering Our Team to Innovate</h2>
-            <p className="text-lg text-slate-400">Our success is fueled by the passion and ingenuity of our team. At Yeasti, we cherish the spirit of innovation and the drive to make a difference in the alcohol industry. Here's what our team members have to say about life at Yeasti.</p>
+            <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">Our Customers Love Us</h2>
+            <p className="text-lg text-slate-400">We are dedicated to providing the best bike rental experience. Here's what our customers have to say about their time with us.</p>
           </div>
           {/* Grid */}
           <div className="grid lg:grid-cols-3 gap-4 sm:gap-6 max-w-xs mx-auto lg:max-w-none">

@@ -24,77 +24,80 @@ export default function Pricing() {
         <div className="before:absolute before:inset-0 before:-z-10 before:border before:border-slate-300 before:bg-slate-700 before:opacity-10 before:rounded-xl">
         {/* Pricing toggle */}
         
-        {/* Pro price */}
-        <div className="p-6  flex flex-col justify-end transition-colors">
+        {/* Standard Rental price */}
+        <div className="p-6 flex flex-col justify-end transition-colors">
           <div className="grow pb-4 mb-4 border-b border-slate-800">
-            <div className="text-base font-medium bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-200 pb-0.5">Retail</div>
+            <div className="text-base font-medium bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-200 pb-0.5">Standard Rental</div>
             <div className="mb-1">
-              <span className="text-lg font-medium text-slate-500">$</span><span className="text-3xl font-bold text-slate-50">{annual ? '120' : '150'}</span><span className="text-sm text-slate-600 font-medium">/mo</span>
+              <span className="text-lg font-medium text-slate-500">$</span><span className="text-3xl font-bold text-slate-50">{annual ? '30' : '35'}</span><span className="text-sm text-slate-600 font-medium">/day</span>
             </div>
-            <div className="text-slate-500">Perfect for bars and micro-producers, this plan enhances customer experience and streamlines operations</div>
+            <div className="text-slate-500">Perfect for short-term needs, this plan offers a reliable bike for your daily commute or delivery work</div>
           </div>
           <div className="pb-4 border-b border-slate-800">
             <a className="btn-sm text-slate-900 bg-gradient-to-r from-white/80 via-white to-white/80 hover:bg-white w-full transition duration-150 ease-in-out group" href="#0">
-              Contact Now
+              Rent Now
             </a>
           </div>
         </div>
-        {/* Team price */}
-       
-        {/* Enterprise price */}
         
-        {/* # Features */}
+        {/* Features */}
         <div className="px-6 flex flex-col justify-end">
           <div className="py-2 text-slate-50 font-medium mt-4">Features</div>
         </div>
         
-        {/* Dashboard Access */}
+        {/* Daily Maintenance */}
         <div className="px-6 flex flex-col justify-end">
-          <div className="py-2 text-slate-400 border-b border-slate-800">Dashboard Access</div>
+          <div className="py-2 text-slate-400 border-b border-slate-800">Daily Maintenance</div>
         </div>
         
-        {/* Supplier Information */}
+        {/* Helmet Included */}
         <div className="px-6 flex flex-col justify-end">
-          <div className="py-2 text-slate-400 border-b border-slate-800">Supplier Information</div>
+          <div className="py-2 text-slate-400 border-b border-slate-800">Helmet Included</div>
         </div>
         
-        {/* Customer Management */}
+        {/* 24/7 Roadside Assistance */}
         <div className="px-6 flex flex-col justify-end">
-          <div className="py-2 text-slate-400 border-b border-slate-800">Customer Management</div>
+          <div className="py-2 text-slate-400 border-b border-slate-800">24/7 Roadside Assistance</div>
         </div>
         
-        {/* Compliance Tracking */}
+        {/* GPS Tracking */}
         <div className="px-6 flex flex-col justify-end">
-          <div className="py-2 text-slate-400 border-b border-slate-800">Compliance Tracking</div>
+          <div className="py-2 text-slate-400 border-b border-slate-800">GPS Tracking</div>
         </div>
         
-        {/* Advanced Supplier Management */}
+        {/* Flexible Pick-up/Drop-off */}
         <div className="px-6 flex flex-col justify-end">
-          <div className="py-2 text-slate-400 border-b border-slate-800">Advanced Supplier Management</div>
+          <div className="py-2 text-slate-400 border-b border-slate-800">Flexible Pick-up/Drop-off</div>
         </div>
-        {/* Production Overview */}
+        
+        {/* Basic Insurance */}
         <div className="px-6 flex flex-col justify-end">
-          <div className="py-2 text-slate-400 border-b border-slate-800">Production Overview</div>
+          <div className="py-2 text-slate-400 border-b border-slate-800">Basic Insurance</div>
         </div>
-        {/* Enhanced Customer Management */}
+        
+        {/* Fuel Efficiency Tracking */}
         <div className="px-6 flex flex-col justify-end">
-          <div className="py-2 text-slate-400 border-b border-slate-800">Enhanced Customer Management</div>
+          <div className="py-2 text-slate-400 border-b border-slate-800">Fuel Efficiency Tracking</div>
         </div> 
-        {/* Marketing Analytics */}
+        
+        {/* Mobile App Access */}
         <div className="px-6 flex flex-col justify-end">
-          <div className="py-2 text-slate-400 border-b border-slate-800">Marketing Analytics</div>
+          <div className="py-2 text-slate-400 border-b border-slate-800">Mobile App Access</div>
         </div> 
-        {/* Exclusive Route Optimization */}
+        
+        {/* Weekly Maintenance Check */}
         <div className="px-6 flex flex-col justify-end">
-          <div className="py-2 text-slate-400 border-b border-slate-800">Exclusive Route Optimization</div>
+          <div className="py-2 text-slate-400 border-b border-slate-800">Weekly Maintenance Check</div>
         </div>
-        {/* Extended Dashboard */}
+        
+        {/* 30-Day Rental Discount */}
         <div className="px-6 flex flex-col justify-end">
-          <div className="py-2 text-slate-400 border-b border-slate-800">Extended Dashboard</div>
+          <div className="py-2 text-slate-400 border-b border-slate-800">30-Day Rental Discount</div>
         </div>
-        {/* Full Data Access */}
+        
+        {/* Customizable Bike Options */}
         <div className="px-6 flex flex-col justify-end">
-          <div className="py-2 text-slate-400 border-b border-slate-800">Full Data Access</div>
+          <div className="py-2 text-slate-400 border-b border-slate-800">Customizable Bike Options</div>
         </div>
         </div>
       </div>

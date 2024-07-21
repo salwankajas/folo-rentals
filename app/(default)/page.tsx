@@ -3,24 +3,24 @@ export const metadata = {
 	description: "Page description",
 };
 
+import Image from 'next/image';
 import Hero from "@/components/hero";
 import Clients from "@/components/clients";
-import Features from "@/components/features";
-import Features02 from "@/components/features-02";
 import Features03 from "@/components/features-03";
-import TestimonialsCarousel from "@/components/testimonials-carousel";
 import Features04 from "@/components/features-04";
 import Pricing from "./pricing-section";
-import Testimonials from "@/components/testimonials";
 import Cta from "@/components/cta";
 import Testimonials02 from "@/components/testimonials-02";
+
+import BikeImage from '@/public/images/bike-image.png'; 
+
 
 
 export default function Home() {
 	return (
 		<>
 			<Hero />
-			<div className="max-w-6xl mx-auto px-4 sm:px-6">
+			<div className="max-w-6xl mx-auto px-4 sm:px-6" id="how-to-work">
         <div className="py-12 md:py-20 border-t [border-image:linear-gradient(to_right,transparent,theme(colors.slate.800),transparent)1]">
 
           {/* Section header */}
@@ -77,8 +77,28 @@ export default function Home() {
 			{/* <Features02 /> */}
 			<Features03 />
 			{/* <TestimonialsCarousel /> */}
-     
 			
+    <section className="relative">
+      <div className="max-w-6xl mx-auto px-4 sm:px-6">
+        <div className="flex flex-col md:flex-row items-center py-12 md:py-20">
+          <div className="md:w-1/2 text-center md:text-left">
+            <h2 className="text-lg font-medium text-blue-500">The darling of the maxxiboys</h2>
+            <h1 className="text-2xl font-bold text-white mt-2">HONDA PCX 125 CC</h1>
+            <ul className="text-slate-400 mt-4 space-y-2">
+              <li>2021/2022 Model</li>
+              <li>45 km per liter (Gasoline)</li>
+              <li>Equipped with phone support</li>
+              <li>The best motto for you to deliver more.</li>
+              <li>Padlock</li>
+              <li>Via Verde</li>
+            </ul>
+          </div>
+          <div className="md:w-1/2 mt-8 md:mt-0">
+            <Image src={BikeImage} alt="Honda PCX 125 CC" />
+          </div>
+        </div>
+      </div>
+    </section>
 			<Pricing />
       <Testimonials02 />
 			{/* <Testimonials /> */}
