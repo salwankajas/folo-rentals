@@ -57,7 +57,7 @@ export default function TestimonialsCarousel() {
               <div className="inline-flex font-medium bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-200 pb-3">Empower Your Business with Custom-Crafted Tools</div>
             </div>
             <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">Customize with Confidence, Serve with Style</h2>
-            <p className="text-lg text-slate-400">Yeasti delivers the power of personalization directly into the hands of the craft beverage industry. Our platform is designed with the precision your business deserves, ensuring that every detail, from tap to table, is curated to your specifications. With Yeasti, elevate the presentation and management of your beverages, enhancing both operations and customer experience.</p>
+            <p className="text-lg text-slate-400">Folo Rentals delivers the power of personalization directly into the hands of the craft beverage industry. Our platform is designed with the precision your business deserves, ensuring that every detail, from tap to table, is curated to your specifications. With Folo Rentals, elevate the presentation and management of your beverages, enhancing both operations and customer experience.</p>
           </div>
 
           {/* Carousel built with Swiper.js [https://swiperjs.com/] */}

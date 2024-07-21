@@ -54,7 +54,7 @@ export default function TopNavbar() {
 
   return (
     <div className="h-11 rounded-tr-2xl flex items-center justify-between text-white text-[13px] bg-[#2C2F48] px-4 sm:px-6 z-50 relative">
-      <div className="absolute left-1/2 transform -translate-x-1/2 flex items-center justify-center">Yeasti</div>
+      <div className="absolute left-1/2 transform -translate-x-1/2 flex items-center justify-center">Folo Rentals</div>
       {!isSmallScreen && (
         <div className="flex items-center gap-2 sm:gap-4 md:gap-6 text-[#EBEBF5A0] ml-auto">
           <Link href="/search">

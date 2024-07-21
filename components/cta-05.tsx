@@ -28,8 +28,8 @@ export default function Cta05() {
             <div>
               <div className="inline-flex font-medium bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-200 pb-3">Be a Part of the Blend</div>
             </div>
-            <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">Join the Yeasti Family - Where Innovation Brews!</h2>
-            <p className="text-lg text-slate-400 mb-8">Ready to distill your data into something extraordinary? Yeasti isn't just another platform; it's a community where data geeks, flavor nerds, and industry disruptors come together to ferment the future of the alcohol industry. Hop on board and let's brew success together. It's time to raise the bar - and we don't just mean the one you're thinking of!</p>
+            <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">Join the Folo Rentals Family - Where Innovation Brews!</h2>
+            <p className="text-lg text-slate-400 mb-8">Ready to distill your data into something extraordinary? Folo Rentals isn't just another platform; it's a community where data geeks, flavor nerds, and industry disruptors come together to ferment the future of the alcohol industry. Hop on board and let's brew success together. It's time to raise the bar - and we don't just mean the one you're thinking of!</p>
             <div>
               <a className="btn text-slate-900 bg-gradient-to-r from-white/80 via-white to-white/80 hover:bg-white transition duration-150 ease-in-out group" href="pricing">
                 Get Started <span className="tracking-normal text-purple-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>

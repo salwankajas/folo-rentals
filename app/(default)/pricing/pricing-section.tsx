@@ -29,7 +29,7 @@ export default function PricingSection() {
             <div className="inline-flex font-medium bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-200 pb-3">Effortless Menus for Every Venture</div>
             <h1 className="h1 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">One Plan, Complete Access</h1>
             <div className="max-w-3xl mx-auto">
-              <p className="text-lg text-slate-400">With Yeasti, every business, big or small, gets the full suite of menu management tools at one fair price. No tiers, no extra fees for essential features—just straightforward pricing for an all-encompassing service. Experience the freedom to build and expand your menu, enhance customer engagement, and manage your offerings without worrying about the cost of growth. Join Yeasti, where every business is a premium member.</p>
+              <p className="text-lg text-slate-400">With Folo Rentals, every business, big or small, gets the full suite of menu management tools at one fair price. No tiers, no extra fees for essential features—just straightforward pricing for an all-encompassing service. Experience the freedom to build and expand your menu, enhance customer engagement, and manage your offerings without worrying about the cost of growth. Join Folo Rentals, where every business is a premium member.</p>
             </div>
           </div>
           <Pricing />

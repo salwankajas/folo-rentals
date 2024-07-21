@@ -25,19 +25,19 @@ export default function Testimonials() {
   const items: Item[] = [
     {
       img: TestimonialImg01,
-      quote: "Yeasti's interface is a game-changer. It's intuitive and quick—I can update our menu in seconds. Our customers love the fresh look, and we're seeing more engagement with our selections.",
+      quote: "Folo Rentals's interface is a game-changer. It's intuitive and quick—I can update our menu in seconds. Our customers love the fresh look, and we're seeing more engagement with our selections.",
       name: 'Jessie J',
       role: 'Head of Operations'
     },
     {
       img: TestimonialImg02,
-      quote: "Implementing daily specials has never been simpler. With Yeasti, we schedule our happy hours and promotions once, and the system takes care of the rest. It's like having an extra pair of hands during rush hour!",
+      quote: "Implementing daily specials has never been simpler. With Folo Rentals, we schedule our happy hours and promotions once, and the system takes care of the rest. It's like having an extra pair of hands during rush hour!",
       name: 'Mark Luk',
       role: 'Sales Director'
     },
     {
       img: TestimonialImg03,
-      quote: "The QR and printed menus from Yeasti offer us incredible flexibility. Online, customers get a real-time view of our craft beers, and the custom print-outs are perfect for our patrons who prefer a tangible menu. It's the best of both worlds.",
+      quote: "The QR and printed menus from Folo Rentals offer us incredible flexibility. Online, customers get a real-time view of our craft beers, and the custom print-outs are perfect for our patrons who prefer a tangible menu. It's the best of both worlds.",
       name: 'Jeff Kahl',
       role: 'Bar Manager'
     }

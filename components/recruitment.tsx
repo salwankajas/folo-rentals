@@ -99,8 +99,8 @@ export default function Recruitment() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">Become Part of the Yeasti Revolution</h2>
-            <p className="text-lg text-slate-400">We’re not just a company, we’re a movement. At Yeasti, we unite the best of technology and tradition to craft solutions that transform the alcohol industry. Join us and become a catalyst for change, in a team where creativity meets data, and innovation is brewed daily.</p>
+            <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">Become Part of the Folo Rentals Revolution</h2>
+            <p className="text-lg text-slate-400">We’re not just a company, we’re a movement. At Folo Rentals, we unite the best of technology and tradition to craft solutions that transform the alcohol industry. Join us and become a catalyst for change, in a team where creativity meets data, and innovation is brewed daily.</p>
           </div>
 
           {/* Icons with text */}

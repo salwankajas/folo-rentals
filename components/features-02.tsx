@@ -21,7 +21,7 @@ export default function Features02() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">Swift. Intuitive. Tailored for the Beverage Experience.</h2>
-            <p className="text-lg text-slate-400">Discover the simplicity of menu management with Yeasti's dedicated platform, designed for seamless integration into the vibrant world of the beverage industry. Engage with ease, update instantly, and captivate your clientele with a tailored digital encounter that makes every selection an experience to remember.</p>
+            <p className="text-lg text-slate-400">Discover the simplicity of menu management with Folo Rentals's dedicated platform, designed for seamless integration into the vibrant world of the beverage industry. Engage with ease, update instantly, and captivate your clientele with a tailored digital encounter that makes every selection an experience to remember.</p>
           </div>
 
           {/* Highlighted boxes */}

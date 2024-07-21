@@ -34,22 +34,22 @@ export default function Story() {
               <div className="max-w-[548px] mx-auto">
                 <div className="text-slate-400 space-y-6">
                   <p>
-                    Our journey began with a shared passion for the intricate dance of flavors and business in the alcohol industry. We, a group of enthusiasts and industry experts, were united by a common challenge — navigating the complex landscape of alcohol production, distribution, and sales. Yeasti was born from a desire not only to address our own needs but to empower every player in the market, from the artisan brewers and distillers to the bustling bars and expansive distributors.
+                    Our journey began with a shared passion for the intricate dance of flavors and business in the alcohol industry. We, a group of enthusiasts and industry experts, were united by a common challenge — navigating the complex landscape of alcohol production, distribution, and sales. Folo Rentals was born from a desire not only to address our own needs but to empower every player in the market, from the artisan brewers and distillers to the bustling bars and expansive distributors.
                   </p>
                   <p>
-                  Yeasti is more than a platform; it's a community hub that brings together individuals passionate about the craft and commerce of alcohol. It’s where <strong className="text-slate-50 font-medium">technology meets tradition</strong>, taking the rich heritage of brewing and distilling into a future where decisions are informed, precise, and impactful.
+                  Folo Rentals is more than a platform; it's a community hub that brings together individuals passionate about the craft and commerce of alcohol. It’s where <strong className="text-slate-50 font-medium">technology meets tradition</strong>, taking the rich heritage of brewing and distilling into a future where decisions are informed, precise, and impactful.
                   </p>
                   <p>
                   Our platform is the fabric weaving together countless threads of data, transforming them into insights that <strong className="text-slate-50 font-medium">drive growth and foster connections</strong>. We believe in creating a dialogue, a place where knowledge converges and becomes accessible, where every voice from the novice bartender to the seasoned distributor can be heard and valued.
                   </p>
                   <p>
-                  The roots of Yeasti are entwined with a commitment to progress, drawing inspiration from both the time-honored methods of the past and the boundless potential of the future. We are not just following the footsteps of security and technology; we are laying down new paths in an industry ripe for innovation.
+                  The roots of Folo Rentals are entwined with a commitment to progress, drawing inspiration from both the time-honored methods of the past and the boundless potential of the future. We are not just following the footsteps of security and technology; we are laying down new paths in an industry ripe for innovation.
                   </p>
                   <p>
-                  Every day at Yeasti is a new opportunity to learn, to experiment, and to lead. We're embracing the latest technologies to reimagine an age-old industry, excited by the endless possibilities to create, innovate, and transform. This isn't just about adapting to change; it's about being the catalyst, sparking a renaissance in an industry that's as dynamic as it is traditional.
+                  Every day at Folo Rentals is a new opportunity to learn, to experiment, and to lead. We're embracing the latest technologies to reimagine an age-old industry, excited by the endless possibilities to create, innovate, and transform. This isn't just about adapting to change; it's about being the catalyst, sparking a renaissance in an industry that's as dynamic as it is traditional.
                   </p>
                   <p>
-                  Join us on this thrilling adventure as we redefine what it means to be at the forefront of the alcohol industry. Welcome to Yeasti, where every pour is informed by intelligence, and every sip is a testament to innovation.
+                  Join us on this thrilling adventure as we redefine what it means to be at the forefront of the alcohol industry. Welcome to Folo Rentals, where every pour is informed by intelligence, and every sip is a testament to innovation.
                   </p>
                 </div>
               </div>

@@ -23,10 +23,10 @@ export default function Cta03() {
           {/* Content */}
           <div className="max-w-3xl mx-auto text-center">
             <div>
-              <div className="inline-flex font-medium bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-200 pb-3">Keep Up with Yeasti's Craft</div>
+              <div className="inline-flex font-medium bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-200 pb-3">Keep Up with Folo Rentals's Craft</div>
             </div>
             <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">Never Miss a Beat - or a Batch!</h2>
-            <p className="text-lg text-slate-400 mb-8">Stay in the loop with every update we distill at Yeasti. Our changelog is the brewery tour of our tech - no hairnets required! Sign up for updates and be the first to know when we tap into new features. Because in our world, staying updated is just as important as staying hydrated.</p>
+            <p className="text-lg text-slate-400 mb-8">Stay in the loop with every update we distill at Folo Rentals. Our changelog is the brewery tour of our tech - no hairnets required! Sign up for updates and be the first to know when we tap into new features. Because in our world, staying updated is just as important as staying hydrated.</p>
             <form className="inline-flex max-w-sm w-full">
               <div className="w-full flex flex-col sm:flex-row justify-center max-w-xs mx-auto sm:max-w-none">
                 <input type="email" className="form-input py-1.5 w-full mb-3 sm:mb-0 sm:mr-2 rounded-full bg-slate-800/30 border-slate-700" placeholder="Your email" aria-label="Your email" />

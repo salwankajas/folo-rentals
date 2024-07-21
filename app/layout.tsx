@@ -13,8 +13,8 @@ const inter = Inter({
 });
 
 export const metadata = {
-	title: "Yeasti",
-	description: "This is description for Yeasti",
+	title: "Folo Rentals",
+	description: "This is description for Folo Rentals",
 };
 
 interface proptype {

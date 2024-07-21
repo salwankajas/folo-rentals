@@ -165,7 +165,7 @@ export default function Team() {
         <div className="py-12 md:py-20">
           {/* Content */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">Meet the Yeasti Family</h2>
+            <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">Meet the Folo Rentals Family</h2>
             <p className="text-lg text-slate-400">We’re a tight-knit team of dreamers, creators, and doers united by a single mission: to innovate the alcohol industry with smart, AI-driven solutions. Each of us brings a unique blend of expertise and passion to the table, crafting a platform that's as enjoyable to use as it is powerful.</p>
           </div>
           {/* Team members */}

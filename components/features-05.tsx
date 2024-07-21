@@ -25,7 +25,7 @@ export default function Features05() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12">
             <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">Maximize Value with Smart Solutions</h2>
-            <p className="text-lg text-slate-400">Don't let complex pricing structures limit your business's potential. Yeasti offers straightforward, value-driven pricing so you can invest more in what matters — growing your business.</p>
+            <p className="text-lg text-slate-400">Don't let complex pricing structures limit your business's potential. Folo Rentals offers straightforward, value-driven pricing so you can invest more in what matters — growing your business.</p>
           </div>
 
           {/* Rings illustration */}

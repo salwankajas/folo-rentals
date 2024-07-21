@@ -21,7 +21,7 @@ export default function Faqs() {
         {/* Section header */}
         <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
           <div>
-            <div className="inline-flex font-medium bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-200 pb-3">Getting started with Yeasti</div>
+            <div className="inline-flex font-medium bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-purple-200 pb-3">Getting started with Folo Rentals</div>
           </div>
           <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">Everything you need to know</h2>
         </div>
@@ -34,20 +34,20 @@ export default function Faqs() {
 
             {/* Item */}
             <div className="space-y-2">
-              <h4 className="font-semibold">What is Yeasti?</h4>
-              <p className="text-slate-400">Yeasti simplifies your menu management with a user-friendly digital platform, making it easy to create, edit, and showcase your offerings across the alcohol industry.</p>
+              <h4 className="font-semibold">What is Folo Rentals?</h4>
+              <p className="text-slate-400">Folo Rentals simplifies your menu management with a user-friendly digital platform, making it easy to create, edit, and showcase your offerings across the alcohol industry.</p>
             </div>
 
             {/* Item */}
             <div className="space-y-2">
-              <h4 className="font-semibold">What features does Yeasti offer?</h4>
-              <p className="text-slate-400">Yeasti enables quick menu modifications, straightforward inventory tracking, and seamless creation of digital and printable menus, all in one intuitive interface.</p>
+              <h4 className="font-semibold">What features does Folo Rentals offer?</h4>
+              <p className="text-slate-400">Folo Rentals enables quick menu modifications, straightforward inventory tracking, and seamless creation of digital and printable menus, all in one intuitive interface.</p>
             </div>
 
             {/* Item */}
             <div className="space-y-2">
-              <h4 className="font-semibold">Does Yeasti cater to different business sizes?</h4>
-              <p className="text-slate-400">Absolutely. Yeasti's one-size-fits-all approach means businesses of all sizes benefit from full access to our comprehensive suite of tools without the worry of scale-based pricing.</p>
+              <h4 className="font-semibold">Does Folo Rentals cater to different business sizes?</h4>
+              <p className="text-slate-400">Absolutely. Folo Rentals's one-size-fits-all approach means businesses of all sizes benefit from full access to our comprehensive suite of tools without the worry of scale-based pricing.</p>
             </div>
 
           </div>
@@ -57,20 +57,20 @@ export default function Faqs() {
 
             {/* Item */}
             <div className="space-y-2">
-              <h4 className="font-semibold">Can I customize my digital menu with Yeasti?</h4>
-              <p className="text-slate-400">With Yeasti's toolkit, customize your menus for both digital displays and print with ease. Design a unique aesthetic that matches your brand's vibe and keeps your offerings current with minimal effort.</p>
+              <h4 className="font-semibold">Can I customize my digital menu with Folo Rentals?</h4>
+              <p className="text-slate-400">With Folo Rentals's toolkit, customize your menus for both digital displays and print with ease. Design a unique aesthetic that matches your brand's vibe and keeps your offerings current with minimal effort.</p>
             </div>
 
             {/* Item */}
             <div className="space-y-2">
-              <h4 className="font-semibold">Is it easy to update my menu with Yeasti?</h4>
-              <p className="text-slate-400">With just a few clicks, Yeasti makes it effortless to add new items, adjust prices, or change descriptions, keeping your menu current and your customers informed.</p>
+              <h4 className="font-semibold">Is it easy to update my menu with Folo Rentals?</h4>
+              <p className="text-slate-400">With just a few clicks, Folo Rentals makes it effortless to add new items, adjust prices, or change descriptions, keeping your menu current and your customers informed.</p>
             </div>
 
             {/* Item */}
             <div className="space-y-2">
-              <h4 className="font-semibold">How does Yeasti help streamline operations?</h4>
-              <p className="text-slate-400">Yeasti offers drag-and-drop simplicity for arranging menus, as well as options for setting timed discounts and promotions to attract and delight customers.</p>
+              <h4 className="font-semibold">How does Folo Rentals help streamline operations?</h4>
+              <p className="text-slate-400">Folo Rentals offers drag-and-drop simplicity for arranging menus, as well as options for setting timed discounts and promotions to attract and delight customers.</p>
             </div>
 
           </div>
