@@ -40,18 +40,12 @@ export default function Testimonials02() {
 
   return (
     <section className="relative">
-      {/* Radial gradient */}
-      <div className="absolute inset-0 overflow-hidden pointer-events-none -z-10" aria-hidden="true">
-        <div className="absolute flex items-center justify-center top-0 -translate-y-1/2 left-1/2 -translate-x-1/2 w-1/3 aspect-square">
-          <div className="absolute inset-0 translate-z-0 bg-purple-500 rounded-full blur-[120px] opacity-50"></div>
-        </div>
-      </div>
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
-        <div className="py-12 md:py-20">
+        <div className="pt-12 md:pt-20">
           {/* Content */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">Our Customers Love Us</h2>
-            <p className="text-lg text-slate-400">We are dedicated to providing the best bike rental experience. Here's what our customers have to say about their time with us.</p>
+            <h2 className="h2 text-color-primary pb-4">Our Customers<br/> Love Us</h2>
+            <p className="text-lg text-color-fourth">We are dedicated to providing the best bike rental experience. Here's what our customers have to say about their time with us.</p>
           </div>
           {/* Grid */}
           <div className="grid lg:grid-cols-3 gap-4 sm:gap-6 max-w-xs mx-auto lg:max-w-none">
@@ -61,7 +55,7 @@ export default function Testimonials02() {
                   <div className="flex items-center space-x-4">
                     <Image className="shrink-0" src={item.img} width={44} height={44} alt={item.name} />
                     <div className="grow">
-                      <div className="font-bold text-slate-100">{item.name}</div>
+                      <div className="font-bold text-slate-100 ">{item.name}</div>
                       <div className="text-sm text-purple-500 font-medium">{item.role}</div>
                     </div>
                   </div>
@@ -71,7 +65,7 @@ export default function Testimonials02() {
                     </svg>
                   </a>
                 </div>
-                <p className="text-sm text-slate-400">“{item.quote}”</p>
+                <p className="text-sm text-color-third">“{item.quote}”</p>
               </div>
             ))}
           </div>

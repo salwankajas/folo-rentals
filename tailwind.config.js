@@ -3,6 +3,12 @@ module.exports = {
 	content: ["./app/**/*.{js,ts,jsx,tsx}", "./components/**/*.{js,ts,jsx,tsx}"],
 	theme: {
 		extend: {
+			colors: {
+				'color-primary': '#37b7c3',
+				'color-secondary': '#f55714',
+				'color-third': '#000000',
+				'color-fourth': '#292828',
+			  },
 			container: {
 				center: true,
 				screens: { sm: "1100px" },

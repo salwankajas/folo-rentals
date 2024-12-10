@@ -40,7 +40,7 @@
 }
 
 .active {
-	box-shadow: -5px 5px 20px -5px #00daea, 0px 0px 20px 0px #c441f4;
+	/* box-shadow: -5px 5px 20px -5px #00daea, 0px 0px 20px 0px #c441f4; */
 }
 
 .main-container {
@@ -55,4 +55,38 @@
 .img-container {
 	width: 100% !important;
 	height: 100% !important;
+}
+:root{
+	--color-primary: #37b7c3;
+	--color-secondary: #f55714;
+	--color-third: #000000;
+	--color-fourth: #121212;
+
+}
+.stricky-fixed {
+    /* transform: translateY(0); */
+	@apply bg-[rgba(255,255,255,1)] border-[1px] drop-shadow-sm;
+	/* border-color-primary */
+    -webkit-box-shadow: 0 3px 18px rgba(2, 21, 78, 0.09);
+    -khtml-box-shadow: 0 3px 18px rgba(2, 21, 78, 0.09);
+    -moz-box-shadow: 0 3px 18px rgba(2, 21, 78, 0.09);
+    -ms-box-shadow: 0 3px 18px rgba(2, 21, 78, 0.09);
+    -o-box-shadow: 0 3px 18px rgba(2, 21, 78, 0.09);
+    box-shadow: 0 3px 18px rgba(2, 21, 78, 0.09);
+	transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+.stricked-menu {
+	/* top: 0;
+    left: 0;
+    right: 0; */
+	@apply bg-transparent;
+    z-index: 999;
+	transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    /* top: 0; */
+    /* transition: all 1s ease; */
+    /* box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); */
+    /* transform: translateY(-100%); */
+    
+    /* background-color: rgba(white,0.7); */
+    /* backdrop-filter: blur(8px); */
 }
