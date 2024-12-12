@@ -10,9 +10,9 @@ export default function Pricing(props: { "planName": string, "price": number, "d
     <div className="relative">
       {/* Blurred shape */}
       {/* Content */}
-      <div className="grid md:grid-cols-1 max-w-[400px] m-auto relative">
+      <div className="grid md:grid-cols-1 max-w-[400px] m-auto relative h-full">
         <div className="bg-color-primary drop-shadow-xl py-16 px-10 rounded-xl before:absolute before:inset-0 before:-z-10 before:border before:border-slate-300 before:bg-slate-700 before:opacity-10 before:rounded-xl">
-          <div className="p-6 flex flex-col justify-end transition-colors">
+          <div className="p-6 flex flex-col justify-end transition-colors h-[300px]">
             <div className="grow pb-4 mb-4 border-bs border-slate-800">
               <div className="text-base font-medium bg-clip-text text-slate-100 bg-gradient-to-r from-purple-500 to-purple-200 pb-0.5">{props.planName}</div>
               <div className="mb-1 flex items-center">
