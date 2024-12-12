@@ -35,7 +35,7 @@ export default function Home() {
               {/* <div className="py-12 md:py-20 border-t [border-image:linear-gradient(to_right,transparent,theme(colors.color-primary),transparent)1]"> */}
               {/* Section header */}
               <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20 z-[2]">
-                <h2 className="h2 bg-clip-text text-color-primary text-slate-100 pb-4">Your money making bike</h2>
+                <h2 className="h2 bg-clip-text text-color-primary text-slate-100 pb-4">Rent a Bike and Explore with Ease</h2>
                 <p className="text-lg text-color-fourth text-slate-100 ">FOLO is better than your own motorcycle</p>
               </div>
 
@@ -96,10 +96,10 @@ export default function Home() {
                       </div>
                       <div className="md:w-1/2 text-center md:text-left rounded-xl p-10">
                         <ul className="text-color-third mt-4 space-y-2 font-semibold text-lg">
-                          <li>2021/2022 Model</li>
-                          <li>45 km per liter (Gasoline)</li>
+                          <li>2024 Model</li>
+                          <li>100 km per 2.5 Liter (Gasoline)</li>
                           <li>Equipped with phone support</li>
-                          <li>The best motto for you to deliver more.</li>
+                          {/* <li>The best motto for you to deliver more.</li> */}
                           <li>Padlock</li>
                           <li>Via Verde</li>
                         </ul>
@@ -108,7 +108,7 @@ export default function Home() {
                   </div>
                 </div>
                 <div className='flex justify-center mt-10'>
-                  <a href="https://wa.me/351912852551" className="text-center px-14 py-3 bg-color-primary text-color-third rounded-full font-semibold hover:bg-opacity-90 transition duration-300">
+                  <a target="#blank" href="https://wa.me/351912852551" className="text-center px-14 py-3 bg-color-primary text-color-third rounded-full font-semibold hover:bg-opacity-90 transition duration-300">
                     Book Now
                   </a>
                 </div>

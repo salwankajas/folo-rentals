@@ -15,7 +15,7 @@ export default function Cta() {
               {/* <h2 className="h2 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">Lisbon - 351 915 885 976</h2> */}
               <h2 className="h2 text-color-primary text-slate-100 pb-4">Porto - +351 912 852 551</h2>
               <div className="mt-4">
-                <a href="https://wa.me/351912852551" className="text-center px-14 py-3 bg-color-primary text-color-third rounded-full font-semibold hover:bg-opacity-90 transition duration-300">
+                <a target="#blank" href="https://wa.me/351912852551" className="text-center px-14 py-3 bg-color-primary text-color-third rounded-full font-semibold hover:bg-opacity-90 transition duration-300">
                   Contact Now
                 </a>
               </div>

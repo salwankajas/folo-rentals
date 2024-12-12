@@ -46,7 +46,7 @@ export default function Header() {
 							</li>
 							<li>
 								<Link className="font-medium text-sm text-color-third hover:text-color-primary mx-4 lg:mx-5 transition duration-150 ease-in-out" href="#how-to-work">
-									How to Work
+									About Us
 								</Link>
 							</li>
 							<li>
@@ -60,7 +60,7 @@ export default function Header() {
 								</Link>
 							</li>
 							<li>
-								<Link className="font-medium text-sm text-color-third hover:text-color-primary mx-4 lg:mx-5 transition duration-150 ease-in-out" href="#rent">
+								<Link className="font-medium text-sm text-color-third hover:text-color-primary mx-4 lg:mx-5 transition duration-150 ease-in-out" target="#blank" href="https://wa.me/351912852551">
 									I Want to Rent
 								</Link>
 							</li>

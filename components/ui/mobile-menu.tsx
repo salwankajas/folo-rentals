@@ -69,7 +69,7 @@ export default function MobileMenu() {
             <Link className="flex font-medium text-sm text-slate-100 hover:text-white py-1.5" href="#plans">Plans</Link>
           </li>
           <li>
-            <Link className="flex font-medium text-sm text-slate-100 hover:text-white py-1.5" href="#rent">I Want to Rent</Link>
+            <Link className="flex font-medium text-sm text-slate-100 hover:text-white py-1.5" target="#blank" href="https://wa.me/351912852551">I Want to Rent</Link>
           </li>
         </ul>
       </nav>

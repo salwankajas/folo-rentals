@@ -28,7 +28,7 @@ export default function Hero() {
               Experience the city like never before with our cutting-edge bike rentals. Comfort meets style, technology meets the road.
             </p>
             <div className="flex space-x-4">
-              <a href="https://wa.me/351912852551" className="px-6 py-3 bg-color-primary text-slate-100 rounded-full font-semibold hover:bg-opacity-90 transition duration-300">
+              <a target="#blank" href="https://wa.me/351912852551" className="px-6 py-3 bg-color-primary text-slate-100 rounded-full font-semibold hover:bg-opacity-90 transition duration-300">
                 Start Riding
               </a>
               <a href="#bikes" className="px-6 py-3 border border-color-primary text-color-third rounded-full font-semibold hover:bg-white hover:text-indigo-900 transition duration-300">

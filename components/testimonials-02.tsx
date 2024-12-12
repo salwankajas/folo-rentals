@@ -55,7 +55,7 @@ export default function Testimonials02() {
                   <div className="flex items-center space-x-4">
                     <Image className="shrink-0" src={item.img} width={44} height={44} alt={item.name} />
                     <div className="grow">
-                      <div className="font-bold text-slate-100 ">{item.name}</div>
+                      <div className="font-bold text-color-third ">{item.name}</div>
                       <div className="text-sm text-purple-500 font-medium">{item.role}</div>
                     </div>
                   </div>
